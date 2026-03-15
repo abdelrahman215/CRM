@@ -1,0 +1,4 @@
+psql:"C:\Program Files\PostgreSQL\16\bin\psql.exe" -U postgres
+avenue_crm user:"C:\Program Files\PostgreSQL\16\bin\psql.exe" -U avenue_user -d avenue_crm
+password:strongpassword123
+presql password:21510108
